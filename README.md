@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
   <br />
  Vulkan Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/129622251-606e64f8-b133-4ad0-9173-89cd1600c897.png">
   <br />
 </p>
 
@@ -23,7 +23,7 @@
 
 4. [C/C++ Development](https://github.com/mikeroyal/Vulkan-Guide#cc-development)
 
-5. [CUDA Development](https://github.com/mikeroyal/Vulkan-Guide#cude-development)
+5. [CUDA Development](https://github.com/mikeroyal/Vulkan-Guide#cuda-development)
 
 6. [Julia Development](https://github.com/mikeroyal/Vulkan-Guide#julia-development)
 
